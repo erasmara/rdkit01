@@ -1,2 +1,2 @@
 # rdkit01
-rdkit for begginers
+rdkit for beginners
